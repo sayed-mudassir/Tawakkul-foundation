@@ -40,7 +40,7 @@ export default function HeroSection() {
             <div className="relative">
               <div className="aspect-square rounded-2xl overflow-hidden shadow-2xl">
                 <Image
-                  src="https://sjc.microlink.io/kPh7AfjAf-M4KsBAwnjgU_WD84zGJs-ZOHGuI4g08YP7BRV4QTbFcR16Fr7Z7LHT2Vur8rjpg5bZsAo9DB04Dw.jpeg"
+                  src="https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                   alt="Happy children from our community programs smiling and waving"
                   width={500}
                   height={500}
